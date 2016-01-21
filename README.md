@@ -1,2 +1,2 @@
 # Google-homepage
-My first repository on GitHub
+Follow this project on theodinproject.com
